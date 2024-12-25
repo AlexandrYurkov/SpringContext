@@ -1,4 +1,4 @@
-package ru.otus.YurkovAleksandr.impl;
+package ru.otus.YurkovAleksandr;
 
 public class Product {
     private int id;
